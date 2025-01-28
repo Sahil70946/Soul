@@ -1,5 +1,3 @@
--#kasukabe0
-
 import telebot
 import subprocess
 import datetime
